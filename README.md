@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Kazibwe Francis, a passionate software engineer specializing in Flutter and web development. I have experience in building responsive and interactive applications using HTML, CSS, JavaScript, and Laravel for the backend.
+👋 Hi there! I'm Kazibwe Francis, a passionate software engineer specializing in Flutter and PHP(Laravel). I have experience in building responsive and interactive applications using HTML, CSS, JavaScript, and Laravel for the backend.
 
 🌱 I'm currently working on several exciting projects, including:
 
