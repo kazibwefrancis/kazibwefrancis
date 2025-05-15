@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I'm Kazibwe Francis, a passionate software engineer specializing in Flutter and PHP(Laravel). I have experience in building responsive and interactive applications using HTML, CSS, JavaScript, and Laravel for the backend.
+👋 Hi there! I'm Kazibwe Francis, a passionate software engineer specializing in Mobile Programming with Flutter and PHP(Laravel) for backend . I have experience in building responsive and interactive applications using HTML, CSS, JavaScript, and Laravel for the backend.
 
 🌱 I'm currently working on several exciting projects, including:
 
-- **AI Nanny**: A smart assistant to help parents manage their children's early education.
+- **Laravel RealEstate system**: A smart assistant to help realtors .
 - **Baby Learn**: An interactive learning app designed for preschoolers and kindergarten students.
 - **FarmEase**: A farming app built using Flutter and Laravel, designed to help farmers manage their crops, track expenses, and access real-time agricultural advice.
 
@@ -34,8 +34,6 @@ Always open to collaboration and learning from the community. Feel free to conne
 ---
 [![](https://visitcount.itsvg.in/api?id=Kazibwefrancis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kazibwe Francis) 
-
+ 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
