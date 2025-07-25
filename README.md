@@ -19,7 +19,7 @@ I'm currently developing and contributing to several impactful projects:
 ### 🎯 My Tech Focus
 
 * **Languages & Frameworks:** Dart (Flutter), PHP (Laravel), C# (.NET Core), Python (Data Science)
-* **Frontend:** HTML, CSS, JavaScript
+* **Frontend:** HTML, CSS, JavaScript,Blade,Blazor
 * **Databases:** MySQL, PostgreSQL, SQL Server
 * **Cloud & DevOps:** Firebase, Docker (learning), Azure (exploring)
 * **Data & AI:** Python (NumPy, pandas, scikit-learn, Matplotlib), Jupyter Notebooks, Data Visualization, ML Models
