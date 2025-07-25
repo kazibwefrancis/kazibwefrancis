@@ -10,7 +10,7 @@
 I'm currently developing and contributing to several impactful projects:
 
 * 🌾 **FarmEase** – A smart farming assistant built with Flutter & Laravel, helping farmers manage crops, track expenses, and access real-time agricultural insights.
-* 🏫 **School Management System** – A robust .NET Core and Flutter-powered platform to digitize and streamline school operations, from attendance to academic records.
+* 🏫 **School Management System** – A robust Laravel platform to digitize and streamline school operations, from attendance to academic records.
 * 🏘 **RealEstate Assistant** – A Laravel-based smart tool aiding realtors in managing listings, appointments, and client communication.
 * 🧠 **Crest AI** – Exploring **cutting-edge AI technology** to power intelligent applications in education, finance, and agriculture.
 
