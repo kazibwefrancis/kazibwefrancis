@@ -1,15 +1,38 @@
-# 💫 About Me:
-👋 Hi there! I'm Kazibwe Francis, a passionate software engineer specializing in Mobile Programming with Flutter and PHP(Laravel) for backend . I have experience in building responsive and interactive applications using HTML, CSS, JavaScript, and Laravel for the backend.
 
-🌱 I'm currently working on several exciting projects, including:
+## 💫 About Me
 
-- **Laravel RealEstate system**: A smart assistant to help realtors .
-- **Baby Learn**: An interactive learning app designed for preschoolers and kindergarten students.
-- **FarmEase**: A farming app built using Flutter and Laravel, designed to help farmers manage their crops, track expenses, and access real-time agricultural advice.
+👋 Hi, I’m **Kazibwe Francis**, a versatile and growth-driven **Software Engineer** passionate about crafting innovative solutions across **Mobile**, **Web**, and **AI-powered systems**. I specialize in **Flutter** for mobile development, **PHP (Laravel)** and **C# (.NET Core)** for backend services, and I'm on a clear path to becoming a **Full-Stack Engineer** and **Data Science Practitioner**.
 
-🚀 I'm continuously learning and exploring new techniques to improve my Flutter and Laravel skills. Additionally, I'm currently diving into the world of **data science**, exploring machine learning, data analysis, and visualization to expand my expertise and build smarter, data-driven applications.
+---
 
-Always open to collaboration and learning from the community. Feel free to connect and explore my work!
+### 🚀 What I’m Working On
+
+I'm currently developing and contributing to several impactful projects:
+
+* 🌾 **FarmEase** – A smart farming assistant built with Flutter & Laravel, helping farmers manage crops, track expenses, and access real-time agricultural insights.
+* 🏫 **School Management System** – A robust .NET Core and Flutter-powered platform to digitize and streamline school operations, from attendance to academic records.
+* 🏘 **RealEstate Assistant** – A Laravel-based smart tool aiding realtors in managing listings, appointments, and client communication.
+* 🧠 **Crest AI** – Exploring **cutting-edge AI technology** to power intelligent applications in education, finance, and agriculture.
+
+---
+
+### 🎯 My Tech Focus
+
+* **Languages & Frameworks:** Dart (Flutter), PHP (Laravel), C# (.NET Core), Python (Data Science)
+* **Frontend:** HTML, CSS, JavaScript
+* **Databases:** MySQL, PostgreSQL, SQL Server
+* **Cloud & DevOps:** Firebase, Docker (learning), Azure (exploring)
+* **Data & AI:** Python (NumPy, pandas, scikit-learn, Matplotlib), Jupyter Notebooks, Data Visualization, ML Models
+
+---
+
+### 📈 Goals
+
+* 🎓 Become a **Full-Stack Engineer** skilled in mobile, web, and backend systems
+* 🧠 Build **AI-driven apps** that solve real-world problems
+* 📊 Advance in **Data Science** with a focus on machine learning and predictive analytics
+* 🤝 Collaborate on **innovative tech products** that make a real impact
+
 
 
 ## 🌐 Socials:
